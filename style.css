@@ -1,0 +1,16 @@
+/* Your existing CSS remains the same */
+
+/* Style the individual job listings */
+.job-listing {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.job-listing h3 {
+    font-size: 1.2rem;
+}
+
+.job-listing p {
+    margin: 5px 0;
+}
